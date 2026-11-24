@@ -1,0 +1,26 @@
+[
+    {
+        "seller_id": 1,
+        "seller": "Seller A",
+        "product": "Wheat Seeds",
+        "category": "Seeds",
+        "price": 500,
+        "stock": 10
+    },
+    {
+        "seller_id": 2,
+        "seller": "Seller B",
+        "product": "Urea Fertilizer",
+        "category": "Fertilizers",
+        "price": 300,
+        "stock": 5
+    },
+    {
+        "seller_id": 1,
+        "seller": "Seller A",
+        "product": "Mustard Seeds",
+        "category": "Seeds",
+        "price": 700,
+        "stock": 0
+    }
+]
